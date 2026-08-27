@@ -1,0 +1,8 @@
+streamlit==1.32.2
+pandas==2.2.1
+numpy==1.26.4
+SQLAlchemy==2.0.29
+greenlet==3.0.3
+pyodbc==5.1.0
+requests==2.31.0
+urllib3==2.2.1
