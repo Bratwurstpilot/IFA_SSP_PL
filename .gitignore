@@ -1,0 +1,23 @@
+# Secrets
+data/credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Virtual environments
+.venv/
+.venv_dev/
+venv/
+env/
+
+# Logs / test artifacts
+logs/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
